@@ -1,0 +1,9 @@
+{
+  "gamerules.fast_minecarts": "Fast Minecarts",
+  "gamerule.minecartMaxSpeed": "Max Speed",
+  "gamerule.minecartSlowdownIfNamedSlow": "Slowdown if name includes \"slow\"",
+  "gamerule.minecartSlowdownOnCurves": "Slowdown on curves",
+  "gamerule.minecartSlowdownOnSoulSand": "Slowdown on Soulsand",
+  "gamerule.minecartSlowdownOnSlimeblock": "Slowdown on Slime Block",
+  "gamerule.minecartSpeedometer": "Show speedometer"
+}

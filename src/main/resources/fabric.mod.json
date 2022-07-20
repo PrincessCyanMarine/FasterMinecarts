@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "fast_minecarts",
+  "version": "1.0.0",
+  "name": "CyanMarine's Faster Minecarts",
+  "description": "Makes minecarts faster",
+  "authors": [
+    "CyanMarine"
+  ],
+  "contact": {
+    "website": "https://www.curseforge.com/minecraft/mc-mods/cyans-faster-minecarts",
+    "repo": "https://github.com/PrincessCyanMarine/FastMinecarts"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/fast_minecarts/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cyanmarine.fast_minecarts.FastMinecarts"
+    ]
+  },
+  "mixins": [
+    "fast_minecarts.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": ">=1.19"
+  }
+}
