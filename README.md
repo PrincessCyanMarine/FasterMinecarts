@@ -42,5 +42,6 @@ Please leave a comment here on curseforge or [create an issue]("https://github.c
 Feel free to add this to as many modpacks as you would like
 
 # Changelog
+## V1.0.1
 ### Added the poweredRailsAlwaysOn gamerule
 ### Added the minecartSlowdownOnSlopes gamerule
