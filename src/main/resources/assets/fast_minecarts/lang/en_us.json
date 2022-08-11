@@ -3,7 +3,9 @@
   "gamerule.minecartMaxSpeed": "Max Speed",
   "gamerule.minecartSlowdownIfNamedSlow": "Slowdown if name includes \"slow\"",
   "gamerule.minecartSlowdownOnCurves": "Slowdown on curves",
+  "gamerule.minecartSlowdownOnSlopes": "Slowdown on slopes",
   "gamerule.minecartSlowdownOnSoulSand": "Slowdown on Soulsand",
   "gamerule.minecartSlowdownOnSlimeblock": "Slowdown on Slime Block",
-  "gamerule.minecartSpeedometer": "Show speedometer"
+  "gamerule.minecartSpeedometer": "Show speedometer",
+  "gamerule.poweredRailsAlwaysOn": "Powered rails are always on"
 }

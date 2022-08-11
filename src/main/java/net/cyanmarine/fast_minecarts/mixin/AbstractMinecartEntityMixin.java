@@ -26,8 +26,6 @@ import static net.cyanmarine.fast_minecarts.FastMinecarts.slowDown;
 public abstract class AbstractMinecartEntityMixin {
     @Shadow protected abstract double getMaxSpeed();
 
-    @Shadow public abstract Direction getMovementDirection();
-
     AbstractMinecartEntity minecart = (AbstractMinecartEntity) (Object) this;
 
     @Inject(at = @At("RETURN"), method = "Lnet/minecraft/entity/vehicle/AbstractMinecartEntity;getMaxSpeed()D", cancellable = true)

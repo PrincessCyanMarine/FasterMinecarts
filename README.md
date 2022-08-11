@@ -25,10 +25,14 @@ This mod adds a few gamerules that allow you to customize its behaviour
 ### *Whether or not to slow down when there's soulsand or slime underneath the minecart. **True by default***
 ## **minecartSlowdownOnCurves**
 ### *Whether or not to slow down before/during curves, to avoid derailing. **True by default***
+## **minecartSlowdownOnSlopes**
+### *Whether or not to slow down during slopes, to allow going up them and not derail when going down. **True by default***
 ## **minecartSlowdownIfNamedSlow**
 ### *Whether or not to slow down the minecart if it has "slow" in its name. **True by default***
 ## **minecartSpeedometer**
 ### *Whether or not to show the minecart's speed for the player riding it. **False by default***
+## **poweredRailsAlwaysOn**
+### *Makes it so powered rails are always on. You need to update your railways whenever you change this gamerule. **False by default***
 
 # Found a bug? Has a suggestion? Any complaints?
 Please leave a comment here on curseforge or [create an issue]("https://github.com/PrincessCyanMarine/FasterMinecarts/issues") over at Github
@@ -36,3 +40,7 @@ Please leave a comment here on curseforge or [create an issue]("https://github.c
 
 # Modpacks
 Feel free to add this to as many modpacks as you would like
+
+# Changelog
+### Added the poweredRailsAlwaysOn gamerule
+### Added the minecartSlowdownOnSlopes gamerule
